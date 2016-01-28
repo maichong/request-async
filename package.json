@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/maichong/request-async#readme",
   "dependencies": {
-    "request": "^2.69.0"
+    "request": "*"
   }
 }
